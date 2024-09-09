@@ -1,0 +1,226 @@
+{
+    "classic": {
+        "name": "classic",
+        "author": "Sourcegraph",
+        "imageFormat": {
+            "type": "json",
+            "genderSpecific": false,
+            "urlGeneratorKey": "classicUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Red Hat Display"
+        },
+        "handlerKey": "ClassicStyleHandler"
+    },
+    "illustration": {
+        "name": "illustration",
+        "author": "Shadoowww__",
+        "imageFormat": {
+            "type": "jpg",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Rammetto One"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "comic": {
+        "name": "comic",
+        "author": "mbti_as_things",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": true,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "HanYiFeiLi-Jian",
+            "englishFont": "Lilita One"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "Mexico": {
+        "name": "Mexico",
+        "author": "_.space.cadette._",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Sacramento"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "Sanrio": {
+        "name": "Sanrio",
+        "author": "none",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Gloria Hallelujah"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "simple_line_color": {
+        "name": "simple_line_color",
+        "author": "none",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Single Day"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "simple_line_color_2": {
+        "name": "simple_line_color_2",
+        "author": "VIENNTJ",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": true,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Yatra One"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "fantasy": {
+        "name": "fantasy",
+        "author": "akklonia",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Barlow Condensed"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "Korean_comic": {
+        "name": "Korean_comic",
+        "author": "FJ",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Annie Use Your Telescope"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "cat": {
+        "name": "cat",
+        "author": "none",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Architects Daughter"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "classic_cute": {
+        "name": "classic_cute",
+        "author": "none",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Architects Daughter"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "work": {
+        "name": "work",
+        "author": "mbti.friendly",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Archivo Black"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "illustration_3": {
+        "name": "illustration_3",
+        "author": "toptier sensor",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Sue Ellen Francisco"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "animals": {
+        "name": "animals",
+        "author": "ProvenPsychology",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Pangolin"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "Disney_princesses": {
+        "name": "Disney_princesses",
+        "author": "LittleMsArtsy",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Pangolin"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "ai_layered_paper": {
+        "name": "ai_layered_paper",
+        "author": "baobaodz",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Protest Guerrilla"
+        },
+        "handlerKey": "imgStyleHandler"
+    }
+}
