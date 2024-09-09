@@ -212,6 +212,22 @@
     "ai_layered_paper": {
         "name": "ai_layered_paper",
         "author": "baobaodz",
+        "prompt": "light blue,full body, 3d layered paper style, traditional Japanese art --niji 6",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": false,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Protest Guerrilla"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "ai_Pixar": {
+        "name": "ai_Pixar",
+        "author": "baobaodz",
+        "prompt": "full-body portrait,delicate face,light blue,3D rendering,Pixar style",
         "imageFormat": {
             "type": "png",
             "genderSpecific": false,
