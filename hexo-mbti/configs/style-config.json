@@ -235,7 +235,21 @@
         },
         "fontFormat": {
             "chineseFont": "",
-            "englishFont": "Protest Guerrilla"
+            "englishFont": "New Amsterdam"
+        },
+        "handlerKey": "imgStyleHandler"
+    },
+    "classic_pattern_3": {
+        "name": "classic_pattern_3",
+        "author": "Sourcegraph",
+        "imageFormat": {
+            "type": "png",
+            "genderSpecific": true,
+            "urlGeneratorKey": "defaultUrlGenerator"
+        },
+        "fontFormat": {
+            "chineseFont": "",
+            "englishFont": "Red Hat Display"
         },
         "handlerKey": "imgStyleHandler"
     }
